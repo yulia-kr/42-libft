@@ -5,7 +5,7 @@ Once all the prerequisites have been met, you can compile this library by typing
 ```
 	$ make
 ```
-## LIBFT
+## 📚LIBFT
 
 ### What is libft?
 
@@ -21,7 +21,7 @@ There are 4 sections:
 3.  **Bonus Functions:** Functions that will be useful for linked list manipulation
 4.  **Personal Functions:** Functions I believe will be useful later.
 
-## FT_PRINTF
+## 📝FT_PRINTF
 
 ## What is ft_printf?
 Regardless of the programming language considered, the ``printf`` function, (or its equivalents) is always highly useful. The main reason is the ease of its formatting, and the support of diverse types in variable numbers. In short, undeniably, printf is a vital function. In this project, we are ask to recode it and add it to our libft so that we can use it in all of our future projects.
@@ -29,7 +29,7 @@ Regardless of the programming language considered, the ``printf`` function, (or 
 The versatility of the printf function in C represents a great exercise in programming for us. It allow us to discover a feature of the C language – variadic functions – and to practice detailed management of the printing options.
 ### more information in subject file ft_printf.en.subject.pdf
 
-## GET_NEXT_LINE
+## 📒GET_NEXT_LINE
 
 ## What is get_next_line?
 You will understand how files are opened, read and closed in an OS, and how they are interpreted by a programming language for further analysis.
